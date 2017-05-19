@@ -1,0 +1,1638 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.015152,-9.189967 ]
+    },
+    "properties": {
+    "Project name":"Building the resilience of wetlands",
+    "Link":"http://www.greenclimate.fund/-/building-the-resilience-of-wetlands-in-the-province-of-datem-del-maranon-peru?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D2",
+    "Location":"Province of Datem del Marañón, Peru",
+    "Country":"Peru",
+    "Financing":"Public ",
+    "Project size":"Micro",
+    "Project length (years)":5,
+    "Year approved":2015,
+    "GCF funding (million $)":6.2,
+    "Co-funding (million $)":"2.9",
+    "Total funding (million $)":"9.1",
+    "Anticipated CO2e savings (million tonnes)":"2.6",
+    "Anticipated beneficiaries (thousand)":"20",
+    "Details":"Will enhance the climate resilience and livelihoods of the indigenous wetlands communities of Datem del Marañón in the Amazon basin, as well as prevent greenhouse gas emissions from deforestation."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.301525,-13.254308 ]
+    },
+    "properties": {
+    "Project name":"Scaling up of modernised climate information and early warning systems",
+    "Link":"http://www.greenclimate.fund/-/scaling-up-of-modernized-climate-information-and-early-warning-systems-in-malawi?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D2",
+    "Location":"Malawi",
+    "Country":"Malawi",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":6,
+    "Year approved":2015,
+    "GCF funding (million $)":12.3,
+    "Co-funding (million $)":"4",
+    "Total funding (million $)":"16.3",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"2,100",
+    "Details":"Aims to protect lives and livelihoods in Malawi from climate-related disasters by providing early warning weather and climate information systems and improving the resilience of vulnerable communities."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.452362,14.497401 ]
+    },
+    "properties": {
+    "Project name":"Increasing resilience of ecosystems and communities through restoration of the productive bases of salinised lands",
+    "Link":"http://www.greenclimate.fund/-/resilience-increase-of-ecosystems-and-communities-through-restoration-of-the-productive-bases-of-salinized-lands?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D2",
+    "Location":"Senegal",
+    "Country":"Senegal",
+    "Financing":"Public",
+    "Project size":"Micro",
+    "Project length (years)":4,
+    "Year approved":2015,
+    "GCF funding (million $)":7.6,
+    "Co-funding (million $)":"0.6",
+    "Total funding (million $)":"8.2",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"130",
+    "Details":"Will restore salinised lands through improved knowledge and planning. It also aims to implement measures such as hydraulic works, reforestation, anti-soil erosion systems, and the use of adapted agriculture. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.356331,23.684994 ]
+    },
+    "properties": {
+    "Project name":"Climate-resilient infrastructure mainstreaming",
+    "Link":"http://www.greenclimate.fund/-/climate-resilient-infrastructure-mainstreaming-in-bangladesh?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D2",
+    "Location":"Bangladesh",
+    "Country":"Bangladesh",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":6,
+    "Year approved":2015,
+    "GCF funding (million $)":40,
+    "Co-funding (million $)":"40",
+    "Total funding (million $)":"80",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"10,534",
+    "Details":"Provision of cyclone shelters and safeguarding of critical road access to protect lives in a rural coastal region of Bangladesh. The project also aims to develop urban infrastructure, safeguard vulnerable city-dwellers from climate risk. It will establish a national centre of excellence for climate resilience infrastructure to inform future infrastructure development.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.873888,-1.940278 ]
+    },
+    "properties": {
+    "Project name":"KawiSafi ventures fund",
+    "Link":"http://www.greenclimate.fund/-/kawisawi-ventures-fund-in-east-africa?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D2",
+    "Location":"Rwanda and Kenya",
+    "Country":"Rwanda",
+    "Financing":"Private",
+    "Project size":"Micro",
+    "Project length (years)":12,
+    "Year approved":2015,
+    "GCF funding (million $)":25,
+    "Co-funding (million $)":"85",
+    "Total funding (million $)":"110",
+    "Anticipated CO2e savings (million tonnes)":"1.5",
+    "Anticipated beneficiaries (thousand)":"15,000",
+    "Details":"Creation of a new investment fund, KawiSafi, to drive off-grid solar power in East Africa. This will invest in 10 to 15 clean energy companies, initially in Rwanda and Kenya with an aim to leapfrog fossil fuel grids to clean energy."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.906193,-0.023559 ]
+    },
+    "properties": {
+    "Project name":"KawiSafi ventures fund",
+    "Link":"http://www.greenclimate.fund/-/kawisawi-ventures-fund-in-east-africa?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D2",
+    "Location":"Rwanda and Kenya",
+    "Country":"Kenya",
+    "Financing":"Private",
+    "Project size":"Micro",
+    "Project length (years)":12,
+    "Year approved":2015,
+    "GCF funding (million $)":25,
+    "Co-funding (million $)":"85",
+    "Total funding (million $)":"110",
+    "Anticipated CO2e savings (million tonnes)":"1.5",
+    "Anticipated beneficiaries (thousand)":"15,000",
+    "Details":"Creation of a new investment fund, KawiSafi, to drive off-grid solar power in East Africa. This will invest in 10 to 15 clean energy companies, initially in Rwanda and Kenya with an aim to leapfrog fossil fuel grids to clean energy."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.297333,4.570868 ]
+    },
+    "properties": {
+    "Project name":"Energy efficiency green bonds in Latin America and the Caribbean",
+    "Link":"http://www.greenclimate.fund/-/energy-efficiency-green-bonds-in-latin-america-and-the-caribbean?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D1",
+    "Location":"Colombia, the Dominican Republic, Jamaica and Mexico",
+    "Country":"Colombia",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":6,
+    "Year approved":2015,
+    "GCF funding (million $)":22,
+    "Co-funding (million $)":"312.5",
+    "Total funding (million $)":"334.5",
+    "Anticipated CO2e savings (million tonnes)":"2.6",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Use of green bonds to address demand-side energy efficiency in Latin America and the Caribbean. Aims to use the concept of aggregation to mobilise institutional funds toward small and medium sized energy service companies.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.162651,18.735693 ]
+    },
+    "properties": {
+    "Project name":"Energy efficiency green bonds in Latin America and the Caribbean",
+    "Link":"http://www.greenclimate.fund/-/energy-efficiency-green-bonds-in-latin-america-and-the-caribbean?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D1",
+    "Location":"Colombia, the Dominican Republic, Jamaica and Mexico",
+    "Country":"Dominican Republic",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":6,
+    "Year approved":2015,
+    "GCF funding (million $)":22,
+    "Co-funding (million $)":"312.5",
+    "Total funding (million $)":"334.5",
+    "Anticipated CO2e savings (million tonnes)":"2.6",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Use of green bonds to address demand-side energy efficiency in Latin America and the Caribbean. Aims to use the concept of aggregation to mobilise institutional funds toward small and medium sized energy service companies.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.297508,18.109581 ]
+    },
+    "properties": {
+    "Project name":"Energy efficiency green bonds in Latin America and the Caribbean",
+    "Link":"http://www.greenclimate.fund/-/energy-efficiency-green-bonds-in-latin-america-and-the-caribbean?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D1",
+    "Location":"Colombia, the Dominican Republic, Jamaica and Mexico",
+    "Country":"Jamaica",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":6,
+    "Year approved":2015,
+    "GCF funding (million $)":22,
+    "Co-funding (million $)":"312.5",
+    "Total funding (million $)":"334.5",
+    "Anticipated CO2e savings (million tonnes)":"2.6",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Use of green bonds to address demand-side energy efficiency in Latin America and the Caribbean. Aims to use the concept of aggregation to mobilise institutional funds toward small and medium sized energy service companies.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.552784,23.634501 ]
+    },
+    "properties": {
+    "Project name":"Energy efficiency green bonds in Latin America and the Caribbean",
+    "Link":"http://www.greenclimate.fund/-/energy-efficiency-green-bonds-in-latin-america-and-the-caribbean?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D1",
+    "Location":"Colombia, the Dominican Republic, Jamaica and Mexico",
+    "Country":"Mexico",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":6,
+    "Year approved":2015,
+    "GCF funding (million $)":22,
+    "Co-funding (million $)":"312.5",
+    "Total funding (million $)":"334.5",
+    "Anticipated CO2e savings (million tonnes)":"2.6",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Use of green bonds to address demand-side energy efficiency in Latin America and the Caribbean. Aims to use the concept of aggregation to mobilise institutional funds toward small and medium sized energy service companies.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.22068,3.202778 ]
+    },
+    "properties": {
+    "Project name":"Support of vulnerable communities to manage climate change-induced water shortage",
+    "Link":"http://www.greenclimate.fund/-/support-of-vulnerable-communities-in-maldives-to-manage-climate-change-induced-water-shortages?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Maldives",
+    "Country":"Maldives",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":5,
+    "Year approved":2015,
+    "GCF funding (million $)":23.6,
+    "Co-funding (million $)":"4.6",
+    "Total funding (million $)":"28.2",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"295",
+    "Details":"Providing safe and secure freshwater to 105,000 people on the outer islands of the Maldives, in response to climate change-induced water shortages. Introducing integrated water supply systems, decentralised dry season water supplies, and improvements to groundwater quality."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.414413,-16.578193 ]
+    },
+    "properties": {
+    "Project name":"Fiji urban water supply and wastewater management project",
+    "Link":"http://www.greenclimate.fund/-/fiji-urban-water-supply-and-wastewater-management-project?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Fiji ",
+    "Country":"Fiji ",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":5,
+    "Year approved":2015,
+    "GCF funding (million $)":31,
+    "Co-funding (million $)":"191",
+    "Total funding (million $)":"222",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"291",
+    "Details":"Building and renovating infrastructure to improve access to safe water and sewerage systems in the greater Suva area of Fiji. Will also create a new river water intake station and improve a wastewater treatment plant and associated sewer coverage."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "Project name":"Energy savings insurance for private energy efficiency investments by small and medium-sized enterprises",
+    "Link":"http://www.greenclimate.fund/-/energy-savings-insurance-for-private-energy-efficiency-investments-by-small-and-medium-sized-enterprises?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"El Salvador",
+    "Country":"El Salvador",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":7,
+    "Year approved":2016,
+    "GCF funding (million $)":21.7,
+    "Co-funding (million $)":"20",
+    "Total funding (million $)":"41.7",
+    "Anticipated CO2e savings (million tonnes)":"0.562",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Improving access to financing for SMEs in El Salvador to replace energy-intensive motors, air-conditioning, refrigeration and boilers, increasing energy efficiency and developing a new market in energy services."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.038189,40.069099 ]
+    },
+    "properties": {
+    "Project name":"De-risking and scaling-up investment in energy efficient building retrofits",
+    "Link":"http://www.greenclimate.fund/-/de-risking-and-scaling-up-investment-in-energy-efficient-building-retrofits-in-armenia?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia",
+    "Country":"Armenia",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":20,
+    "Year approved":2016,
+    "GCF funding (million $)":20,
+    "Co-funding (million $)":"9.8",
+    "Total funding (million $)":"29.8",
+    "Anticipated CO2e savings (million tonnes)":"1.4",
+    "Anticipated beneficiaries (thousand)":"210",
+    "Details":"Improving energy efficiency through building retrofits, addressing high levels of energy poverty and high use of imported fossil fuels for heating."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.310139,13.443182 ]
+    },
+    "properties": {
+    "Project name":"Large-scale ecosystem-based adaptation in the Gambia River Basin: developing a climate resilient, natural resource based economy",
+    "Link":"http://www.greenclimate.fund/-/large-scale-ecosystem-based-adaptation-in-the-gambia-river-basin-developing-a-climate-resilient-natural-resource-based-economy?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Gambia",
+    "Country":"Gambia",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":6,
+    "Year approved":2016,
+    "GCF funding (million $)":20.5,
+    "Co-funding (million $)":"5",
+    "Total funding (million $)":"25.5",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"58",
+    "Details":"Restoring degraded forests and agricultural landscapes with climate-resilient plants, establishing natural resource-based businesses, and strengthening capacity and policies to implement ecobased adaptation systems."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.996166,17.570692 ]
+    },
+    "properties": {
+    "Project name":"Africa Hydromet Program - strengthening climate resilience in Sub-Saharan Africa",
+    "Link":"http://www.greenclimate.fund/-/africa-hydromet-program-strengthening-climate-resilience-in-sub-saharan-africa-mali-country-project?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Mali",
+    "Country":"Mali",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":4,
+    "Year approved":2016,
+    "GCF funding (million $)":22.8,
+    "Co-funding (million $)":"4.5",
+    "Total funding (million $)":"27.3",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"5,300",
+    "Details":"Strengthening the adaptive capacity and climate resilience of vulnerable communities by developing hydro-meteorological weather warning services to support adaptation planning."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.277199,14.058324 ]
+    },
+    "properties": {
+    "Project name":"Improving the resilience of vulnerable coastal communities to climate change related impacts",
+    "Link":"http://www.greenclimate.fund/-/improving-the-resilience-of-vulnerable-coastal-communities-to-climate-change-related-impacts-in-viet-nam?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Vietnam",
+    "Country":"Vietnam",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":5,
+    "Year approved":2016,
+    "GCF funding (million $)":29.5,
+    "Co-funding (million $)":"10",
+    "Total funding (million $)":"39.5",
+    "Anticipated CO2e savings (million tonnes)":"1.9",
+    "Anticipated beneficiaries (thousand)":"30,000",
+    "Details":"Strengthening storm and flood protection for coastal communities through resilient housing, planting and rehabilitation of mangrove forests, and systematized climate risk assessments for the public and private sectors."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.276093,38.861034 ]
+    },
+    "properties": {
+    "Project name":"Climate adaptation and mitigation program for the Aral Sea Basin ",
+    "Link":"http://www.greenclimate.fund/-/climate-adaptation-and-mitigation-program-for-the-aral-sea-basin-camp4asb-?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Tajikistan,\nUzbekistan",
+    "Country":"Tajikistan",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":6,
+    "Year approved":2016,
+    "GCF funding (million $)":19,
+    "Co-funding (million $)":"49.8",
+    "Total funding (million $)":"68.8",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"205",
+    "Details":"Scaling up an existing program by providing support to adaptation activities in Tajikistan and Uzbekistan. Providing grants to the most vulnerable communities for climate resilient measures in priority areas, including to the poorest populations residing in risk-prone areas, and marginalized groups such as women."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.585262,41.377491 ]
+    },
+    "properties": {
+    "Project name":"Climate adaptation and mitigation program for the Aral Sea Basin ",
+    "Link":"http://www.greenclimate.fund/-/climate-adaptation-and-mitigation-program-for-the-aral-sea-basin-camp4asb-?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Tajikistan,\nUzbekistan",
+    "Country":"Uzbekistan",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":6,
+    "Year approved":2016,
+    "GCF funding (million $)":19,
+    "Co-funding (million $)":"49.8",
+    "Total funding (million $)":"68.8",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"205",
+    "Details":"Scaling up an existing program by providing support to adaptation activities in Tajikistan and Uzbekistan. Providing grants to the most vulnerable communities for climate resilient measures in priority areas, including to the poorest populations residing in risk-prone areas, and marginalized groups such as women."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 177.64933,-7.109535 ]
+    },
+    "properties": {
+    "Project name":"Tuvalu coastal adaptation project",
+    "Link":"http://www.greenclimate.fund/-/tuvalu-coastal-adaptation-project?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Tuvalu",
+    "Country":"Tuvalu",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":40,
+    "Year approved":2016,
+    "GCF funding (million $)":36,
+    "Co-funding (million $)":"2.9",
+    "Total funding (million $)":"38.9",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"7",
+    "Details":"Protecting the small island nation from the impact of rising sea level and increasing cyclone events that threaten the country’s viability."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.771797,7.873054 ]
+    },
+    "properties": {
+    "Project name":"Strengthening the resilience of smallholder farmers in the dry zone to climate variability and extreme events through an integrated approach to water management",
+    "Link":"http://www.greenclimate.fund/-/strengthening-the-resilience-of-smallholder-farmers-in-the-dry-zone-to-climate-variability-and-extreme-events-through-an-integrated-approach-to-water-?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Sri Lanka",
+    "Country":"Sri Lanka",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":7,
+    "Year approved":2016,
+    "GCF funding (million $)":38.1,
+    "Co-funding (million $)":"14",
+    "Total funding (million $)":"52.1",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"1,950",
+    "Details":"Improving integrated water management within the dry zone of the country order to strengthen the resilience of smallholder farmers in the face of rising temperatures and extreme weather events attributable to climate change."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.542969,-35.675147 ]
+    },
+    "properties": {
+    "Project name":"Climate action and solar energy development programme in the Tarapacá Region",
+    "Link":"http://www.greenclimate.fund/-/climate-action-and-solar-energy-development-programme-in-the-tarapaca-region-in-chile?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Chile",
+    "Country":"Chile",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":20,
+    "Year approved":2016,
+    "GCF funding (million $)":49,
+    "Co-funding (million $)":"216",
+    "Total funding (million $)":"265",
+    "Anticipated CO2e savings (million tonnes)":"3.7",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Large-scale investment in the ‘shovel ready’ Atacama Solar Project to deliver quick CO2 displacement, and drive transition in Chile towards renewable power."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.345116,30.375321 ]
+    },
+    "properties": {
+    "Project name":"Scaling‐up of glacial lake outburst flood risk reduction",
+    "Link":"http://www.greenclimate.fund/-/scaling-up-of-glacial-lake-outburst-flood-glof-risk-reduction-in-northern-pakistan?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Pakistan",
+    "Country":"Pakistan",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":5,
+    "Year approved":2016,
+    "GCF funding (million $)":37,
+    "Co-funding (million $)":"0.5",
+    "Total funding (million $)":"37.5",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"29,200",
+    "Details":"Scaling-up of early warning systems, engineering structures and disaster management policies to reduce risk to local communities from glacial lake flooding events."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.183406,-1.831239 ]
+    },
+    "properties": {
+    "Project name":"Priming financial and land-use planning instruments to reduce emissions from deforestation",
+    "Link":"http://www.greenclimate.fund/-/priming-financial-and-land-use-planning-instruments-to-reduce-emissions-from-deforestation?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":5,
+    "Year approved":2016,
+    "GCF funding (million $)":41.2,
+    "Co-funding (million $)":"42.9",
+    "Total funding (million $)":"84",
+    "Anticipated CO2e savings (million tonnes)":"15",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Reducing deforestation in Ecuador by investments to support sustainable agricultural production and conservation of forests."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.370976,15.414999 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy facility for the eastern Caribbean",
+    "Link":"http://www.greenclimate.fund/-/sustainable-energy-facility-for-the-eastern-caribbean?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines",
+    "Country":"Dominica",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":8,
+    "Year approved":2016,
+    "GCF funding (million $)":80,
+    "Co-funding (million $)":"110.5",
+    "Total funding (million $)":"190.5",
+    "Anticipated CO2e savings (million tonnes)":"9.4",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Financing of commercial geothermal energy projects and strengthening legal and regulatory frameworks to underpin the development of geothermal energy potential in the region."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.604171,12.262776 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy facility for the eastern Caribbean",
+    "Link":"http://www.greenclimate.fund/-/sustainable-energy-facility-for-the-eastern-caribbean?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines",
+    "Country":"Grenada",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":8,
+    "Year approved":2016,
+    "GCF funding (million $)":80,
+    "Co-funding (million $)":"110.5",
+    "Total funding (million $)":"190.5",
+    "Anticipated CO2e savings (million tonnes)":"9.4",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Financing of commercial geothermal energy projects and strengthening legal and regulatory frameworks to underpin the development of geothermal energy potential in the region."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.782998,17.357822 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy facility for the eastern Caribbean",
+    "Link":"http://www.greenclimate.fund/-/sustainable-energy-facility-for-the-eastern-caribbean?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines",
+    "Country":"Saint Kitts and Nevis",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":8,
+    "Year approved":2016,
+    "GCF funding (million $)":80,
+    "Co-funding (million $)":"110.5",
+    "Total funding (million $)":"190.5",
+    "Anticipated CO2e savings (million tonnes)":"9.4",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Financing of commercial geothermal energy projects and strengthening legal and regulatory frameworks to underpin the development of geothermal energy potential in the region."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.978893,13.909444 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy facility for the eastern Caribbean",
+    "Link":"http://www.greenclimate.fund/-/sustainable-energy-facility-for-the-eastern-caribbean?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines",
+    "Country":"Saint Lucia",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":8,
+    "Year approved":2016,
+    "GCF funding (million $)":80,
+    "Co-funding (million $)":"110.5",
+    "Total funding (million $)":"190.5",
+    "Anticipated CO2e savings (million tonnes)":"9.4",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Financing of commercial geothermal energy projects and strengthening legal and regulatory frameworks to underpin the development of geothermal energy potential in the region."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.287228,12.984305 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy facility for the eastern Caribbean",
+    "Link":"http://www.greenclimate.fund/-/sustainable-energy-facility-for-the-eastern-caribbean?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines",
+    "Country":"Saint Vincent and the Grenadines",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":8,
+    "Year approved":2016,
+    "GCF funding (million $)":80,
+    "Co-funding (million $)":"110.5",
+    "Total funding (million $)":"190.5",
+    "Anticipated CO2e savings (million tonnes)":"9.4",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Financing of commercial geothermal energy projects and strengthening legal and regulatory frameworks to underpin the development of geothermal energy potential in the region."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.452362,14.497401 ]
+    },
+    "properties": {
+    "Project name":"Senegal integrated urban flood management project",
+    "Link":"http://www.greenclimate.fund/-/senegal-integrated-urban-flood-management-project?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Senegal",
+    "Country":"Senegal",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":5,
+    "Year approved":2016,
+    "GCF funding (million $)":16.7,
+    "Co-funding (million $)":"62.5",
+    "Total funding (million $)":"79.2",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"2,200",
+    "Details":"Aims to protect urban areas from flood risk by investing in drainage infrastructure and establishing a national disaster risk management policy."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.09262,31.791702 ]
+    },
+    "properties": {
+    "Project name":"Development of Argan orchards in degraded environment",
+    "Link":"http://www.greenclimate.fund/-/development-of-argan-orchards-in-degraded-environment-dared?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Morocco",
+    "Country":"Morocco",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":6,
+    "Year approved":2016,
+    "GCF funding (million $)":39.3,
+    "Co-funding (million $)":"9.9",
+    "Total funding (million $)":"49.2",
+    "Anticipated CO2e savings (million tonnes)":"0.604",
+    "Anticipated beneficiaries (thousand)":"26",
+    "Details":"Supporting rural communities in the Argan Biosphere Reserve through the planting of argan orchards and the promotion of sustainable arganiculture to foster sustainable development, build resilience and support climate mitigation."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.49041,-22.95764 ]
+    },
+    "properties": {
+    "Project name":"Climate resilient agriculture in three of the vulnerable extreme northern crop-growing regions",
+    "Link":"http://www.greenclimate.fund/-/climate-resilient-agriculture-in-three-of-the-vulnerable-extreme-northern-crop-growing-regions-crave-?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Namibia",
+    "Country":"Namibia",
+    "Financing":"Public",
+    "Project size":"Micro",
+    "Project length (years)":5,
+    "Year approved":2016,
+    "GCF funding (million $)":9.5,
+    "Co-funding (million $)":"0.5",
+    "Total funding (million $)":"10",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"21",
+    "Details":"Increasing the climate-resilience and reducing the food insecurity of subsistence farmers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.49041,-22.95764 ]
+    },
+    "properties": {
+    "Project name":"Empower to adapt: creating climate-change resilient livelihoods through community-based natural resource management",
+    "Link":"http://www.greenclimate.fund/-/empower-to-adapt-creating-climate-change-resilient-livelihoods-through-community-based-natural-resource-management-in-namibia?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Namibia",
+    "Country":"Namibia",
+    "Financing":"Public",
+    "Project size":"Micro",
+    "Project length (years)":5,
+    "Year approved":2016,
+    "GCF funding (million $)":10,
+    "Co-funding (million $)":"0",
+    "Total funding (million $)":"10",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"77",
+    "Details":"Aims to empower rural communities and improve the land management of an area of 7.2 million hectares, through both community support and grants"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.038189,40.069099 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy financing facilities",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-sustainable-energy-financing-facilities?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia, Egypt, Georgia, Jordan, Republic of Moldova, Mongolia, Morocco, Serbia, Tajikistan, Tunisia",
+    "Country":"Armenia",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":378,
+    "Co-funding (million $)":"1,034",
+    "Total funding (million $)":"1,412",
+    "Anticipated CO2e savings (million tonnes)":"29.1",
+    "Anticipated beneficiaries (thousand)":"91",
+    "Details":"Project co-financed with the European Bank for Reconstruction and Development (EBRD) to deliver climate finance to the private sector at scale through partner financial institutions across 10 countries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.802498,26.820553 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy financing facilities",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-sustainable-energy-financing-facilities?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia, Egypt, Georgia, Jordan, Republic of Moldova, Mongolia, Morocco, Serbia, Tajikistan, Tunisia",
+    "Country":"Egypt",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":378,
+    "Co-funding (million $)":"1,034",
+    "Total funding (million $)":"1,412",
+    "Anticipated CO2e savings (million tonnes)":"29.1",
+    "Anticipated beneficiaries (thousand)":"91",
+    "Details":"Project co-financed with the European Bank for Reconstruction and Development (EBRD) to deliver climate finance to the private sector at scale through partner financial institutions across 10 countries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.356892,42.315407 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy financing facilities",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-sustainable-energy-financing-facilities?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia, Egypt, Georgia, Jordan, Republic of Moldova, Mongolia, Morocco, Serbia, Tajikistan, Tunisia",
+    "Country":"Georgia",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":378,
+    "Co-funding (million $)":"1,034",
+    "Total funding (million $)":"1,412",
+    "Anticipated CO2e savings (million tonnes)":"29.1",
+    "Anticipated beneficiaries (thousand)":"91",
+    "Details":"Project co-financed with the European Bank for Reconstruction and Development (EBRD) to deliver climate finance to the private sector at scale through partner financial institutions across 10 countries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.238414,30.585164 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy financing facilities",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-sustainable-energy-financing-facilities?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia, Egypt, Georgia, Jordan, Republic of Moldova, Mongolia, Morocco, Serbia, Tajikistan, Tunisia",
+    "Country":"Jordan",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":378,
+    "Co-funding (million $)":"1,034",
+    "Total funding (million $)":"1,412",
+    "Anticipated CO2e savings (million tonnes)":"29.1",
+    "Anticipated beneficiaries (thousand)":"91",
+    "Details":"Project co-financed with the European Bank for Reconstruction and Development (EBRD) to deliver climate finance to the private sector at scale through partner financial institutions across 10 countries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.183884,25.354826 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy financing facilities",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-sustainable-energy-financing-facilities?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia, Egypt, Georgia, Jordan, Republic of Moldova, Mongolia, Morocco, Serbia, Tajikistan, Tunisia",
+    "Country":"Republic of Moldova",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":378,
+    "Co-funding (million $)":"1,034",
+    "Total funding (million $)":"1,412",
+    "Anticipated CO2e savings (million tonnes)":"29.1",
+    "Anticipated beneficiaries (thousand)":"91",
+    "Details":"Project co-financed with the European Bank for Reconstruction and Development (EBRD) to deliver climate finance to the private sector at scale through partner financial institutions across 10 countries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.846656,46.862496 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy financing facilities",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-sustainable-energy-financing-facilities?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia, Egypt, Georgia, Jordan, Republic of Moldova, Mongolia, Morocco, Serbia, Tajikistan, Tunisia",
+    "Country":"Mongolia",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":378,
+    "Co-funding (million $)":"1,034",
+    "Total funding (million $)":"1,412",
+    "Anticipated CO2e savings (million tonnes)":"29.1",
+    "Anticipated beneficiaries (thousand)":"91",
+    "Details":"Project co-financed with the European Bank for Reconstruction and Development (EBRD) to deliver climate finance to the private sector at scale through partner financial institutions across 10 countries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.09262,31.791702 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy financing facilities",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-sustainable-energy-financing-facilities?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia, Egypt, Georgia, Jordan, Republic of Moldova, Mongolia, Morocco, Serbia, Tajikistan, Tunisia",
+    "Country":"Morocco",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":378,
+    "Co-funding (million $)":"1,034",
+    "Total funding (million $)":"1,412",
+    "Anticipated CO2e savings (million tonnes)":"29.1",
+    "Anticipated beneficiaries (thousand)":"91",
+    "Details":"Project co-financed with the European Bank for Reconstruction and Development (EBRD) to deliver climate finance to the private sector at scale through partner financial institutions across 10 countries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.005859,44.016521 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy financing facilities",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-sustainable-energy-financing-facilities?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia, Egypt, Georgia, Jordan, Republic of Moldova, Mongolia, Morocco, Serbia, Tajikistan, Tunisia",
+    "Country":"Serbia",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":378,
+    "Co-funding (million $)":"1,034",
+    "Total funding (million $)":"1,412",
+    "Anticipated CO2e savings (million tonnes)":"29.1",
+    "Anticipated beneficiaries (thousand)":"91",
+    "Details":"Project co-financed with the European Bank for Reconstruction and Development (EBRD) to deliver climate finance to the private sector at scale through partner financial institutions across 10 countries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.276093,38.861034 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy financing facilities",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-sustainable-energy-financing-facilities?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia, Egypt, Georgia, Jordan, Republic of Moldova, Mongolia, Morocco, Serbia, Tajikistan, Tunisia",
+    "Country":"Tajikistan",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":378,
+    "Co-funding (million $)":"1,034",
+    "Total funding (million $)":"1,412",
+    "Anticipated CO2e savings (million tonnes)":"29.1",
+    "Anticipated beneficiaries (thousand)":"91",
+    "Details":"Project co-financed with the European Bank for Reconstruction and Development (EBRD) to deliver climate finance to the private sector at scale through partner financial institutions across 10 countries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.537499,33.886917 ]
+    },
+    "properties": {
+    "Project name":"Sustainable energy financing facilities",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-sustainable-energy-financing-facilities?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Armenia, Egypt, Georgia, Jordan, Republic of Moldova, Mongolia, Morocco, Serbia, Tajikistan, Tunisia",
+    "Country":"Tunisia",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":378,
+    "Co-funding (million $)":"1,034",
+    "Total funding (million $)":"1,412",
+    "Anticipated CO2e savings (million tonnes)":"29.1",
+    "Anticipated beneficiaries (thousand)":"91",
+    "Details":"Project co-financed with the European Bank for Reconstruction and Development (EBRD) to deliver climate finance to the private sector at scale through partner financial institutions across 10 countries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.869107,-18.766947 ]
+    },
+    "properties": {
+    "Project name":"Sustainable landscapes in Eastern Madagascar",
+    "Link":"http://www.greenclimate.fund/-/sustainable-landscapes-in-eastern-madagascar?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Madagascar",
+    "Country":"Madagascar",
+    "Financing":"Private",
+    "Project size":"Medium",
+    "Project length (years)":10,
+    "Year approved":2016,
+    "GCF funding (million $)":53.5,
+    "Co-funding (million $)":"16.3",
+    "Total funding (million $)":"69.8",
+    "Anticipated CO2e savings (million tonnes)":"10",
+    "Anticipated beneficiaries (thousand)":"562",
+    "Details":"Sustainable landscape measures to enhance resilience of smallholders, reduce greenhouse gas emissions and channel private finance into climate-smart investments in agriculture and renewable energy."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315834,9.30769 ]
+    },
+    "properties": {
+    "Project name":"Universal green energy access programme",
+    "Link":"http://www.greenclimate.fund/-/universal-green-energy-access-programme?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Benin, Kenya, Namibia, Nigeria, United Republic of Tanzania",
+    "Country":"Benin",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":80,
+    "Co-funding (million $)":"221.6",
+    "Total funding (million $)":"301.6",
+    "Anticipated CO2e savings (million tonnes)":"50.6",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Contributing to universal access to electricity in Sub-Saharan Africa by scaling up investments in renewable energy from local financial markets and the international private sector.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.906193,-0.023559 ]
+    },
+    "properties": {
+    "Project name":"Universal green energy access programme",
+    "Link":"http://www.greenclimate.fund/-/universal-green-energy-access-programme?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Benin, Kenya, Namibia, Nigeria, United Republic of Tanzania",
+    "Country":"Kenya",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":80,
+    "Co-funding (million $)":"221.6",
+    "Total funding (million $)":"301.6",
+    "Anticipated CO2e savings (million tonnes)":"50.6",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Contributing to universal access to electricity in Sub-Saharan Africa by scaling up investments in renewable energy from local financial markets and the international private sector.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.49041,-22.95764 ]
+    },
+    "properties": {
+    "Project name":"Universal green energy access programme",
+    "Link":"http://www.greenclimate.fund/-/universal-green-energy-access-programme?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Benin, Kenya, Namibia, Nigeria, United Republic of Tanzania",
+    "Country":"Namibia",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":80,
+    "Co-funding (million $)":"221.6",
+    "Total funding (million $)":"301.6",
+    "Anticipated CO2e savings (million tonnes)":"50.6",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Contributing to universal access to electricity in Sub-Saharan Africa by scaling up investments in renewable energy from local financial markets and the international private sector.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.675277,9.081999 ]
+    },
+    "properties": {
+    "Project name":"Universal green energy access programme",
+    "Link":"http://www.greenclimate.fund/-/universal-green-energy-access-programme?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Benin, Kenya, Namibia, Nigeria, United Republic of Tanzania",
+    "Country":"Nigeria",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":80,
+    "Co-funding (million $)":"221.6",
+    "Total funding (million $)":"301.6",
+    "Anticipated CO2e savings (million tonnes)":"50.6",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Contributing to universal access to electricity in Sub-Saharan Africa by scaling up investments in renewable energy from local financial markets and the international private sector.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.435973,55.378051 ]
+    },
+    "properties": {
+    "Project name":"Universal green energy access programme",
+    "Link":"http://www.greenclimate.fund/-/universal-green-energy-access-programme?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Benin, Kenya, Namibia, Nigeria, United Republic of Tanzania",
+    "Country":"United Republic of Tanzania",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":80,
+    "Co-funding (million $)":"221.6",
+    "Total funding (million $)":"301.6",
+    "Anticipated CO2e savings (million tonnes)":"50.6",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Contributing to universal access to electricity in Sub-Saharan Africa by scaling up investments in renewable energy from local financial markets and the international private sector.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.846656,46.862496 ]
+    },
+    "properties": {
+    "Project name":"Business loan programme for greenhouse gas emissions reduction",
+    "Link":"http://www.greenclimate.fund/-/business-loan-programme-for-ghg-emissions-reduction?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Mongolia",
+    "Country":"Mongolia",
+    "Financing":"Private",
+    "Project size":"Small",
+    "Project length (years)":5,
+    "Year approved":2016,
+    "GCF funding (million $)":20,
+    "Co-funding (million $)":"40",
+    "Total funding (million $)":"60",
+    "Anticipated CO2e savings (million tonnes)":"1.2",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Supporting Mongolian enterprises embrace energy efficiency and renewable energy."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.937506,-30.559482 ]
+    },
+    "properties": {
+    "Project name":"SCF Capital Solutions",
+    "Link":"http://www.greenclimate.fund/-/scf-capital-solutions?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"South Africa",
+    "Country":"South Africa",
+    "Financing":"Private",
+    "Project size":"Small",
+    "Project length (years)":10,
+    "Year approved":2016,
+    "GCF funding (million $)":12.2,
+    "Co-funding (million $)":"21.874",
+    "Total funding (million $)":"34.074",
+    "Anticipated CO2e savings (million tonnes)":"33",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.616672,-38.416097 ]
+    },
+    "properties": {
+    "Project name":"Catalysing private investment in sustainable energy - Part 1",
+    "Link":"http://www.greenclimate.fund/-/catalyzing-private-investment-in-sustainable-energy-in-argentina-part-1?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Argentina",
+    "Country":"Argentina",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":22,
+    "Year approved":2016,
+    "GCF funding (million $)":133,
+    "Co-funding (million $)":"520",
+    "Total funding (million $)":"653",
+    "Anticipated CO2e savings (million tonnes)":"15.3",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.552152,-20.348404 ]
+    },
+    "properties": {
+    "Project name":"Accelerating the transformational shift to a low-carbon economy",
+    "Link":"http://www.greenclimate.fund/-/accelerating-the-transformational-shift-to-a-low-carbon-economy-in-the-republic-of-mauritius?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Mauritius",
+    "Country":"Mauritius",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":20,
+    "Year approved":2016,
+    "GCF funding (million $)":28.2,
+    "Co-funding (million $)":"163.2",
+    "Total funding (million $)":"191.4",
+    "Anticipated CO2e savings (million tonnes)":"4.3",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Helping Mauritius mainstream renewable energy and reduce its reliance on fossil fuels."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.290275,1.373333 ]
+    },
+    "properties": {
+    "Project name":"Building resilient communities, wetlands ecosystems and associated catchments",
+    "Link":"http://www.greenclimate.fund/-/building-resilient-communities-wetlands-ecosystems-and-associated-catchments-in-uganda?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Uganda",
+    "Country":"Uganda",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":8,
+    "Year approved":2016,
+    "GCF funding (million $)":24.1,
+    "Co-funding (million $)":"20.1",
+    "Total funding (million $)":"44.3",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"4,800",
+    "Details":"Enhancing Ugandan subsistence farmers’ ability to deal with climate impacts."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.959158,-15.376706 ]
+    },
+    "properties": {
+    "Project name":"Climate information services for resilient development",
+    "Link":"http://www.greenclimate.fund/-/climate-information-services-for-resilient-development-in-vanuatu?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Vanuatu",
+    "Country":"Vanuatu",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":4.25,
+    "Year approved":2016,
+    "GCF funding (million $)":23,
+    "Co-funding (million $)":"3.7",
+    "Total funding (million $)":"26.6",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"261",
+    "Details":"Expand the use of Climate Information Services (CIS) in five targeted sectors: tourism, agriculture, infrastructure, water management and fisheries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.777671,-21.236736 ]
+    },
+    "properties": {
+    "Project name":"Pacific Islands renewable energy investment program",
+    "Link":"http://www.greenclimate.fund/-/pacific-islands-renewable-energy-investment-program?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Cook Islands, Tonga, Republic of Marshall Islands, Federated States of Micronesia, Papua New Guinea, Nauru and Samoa",
+    "Country":"Cook Islands",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":17,
+    "Co-funding (million $)":"9",
+    "Total funding (million $)":"26",
+    "Anticipated CO2e savings (million tonnes)":"0.0956",
+    "Anticipated beneficiaries (thousand)":"10",
+    "Details":"Support for seven Small Island Developing States (SIDS) to move from diesel power to renewable energy. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.198242,-21.178986 ]
+    },
+    "properties": {
+    "Project name":"Pacific Islands renewable energy investment program",
+    "Link":"http://www.greenclimate.fund/-/pacific-islands-renewable-energy-investment-program?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Cook Islands, Tonga, Republic of Marshall Islands, Federated States of Micronesia, Papua New Guinea, Nauru and Samoa",
+    "Country":"Tonga",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":17,
+    "Co-funding (million $)":"9",
+    "Total funding (million $)":"26",
+    "Anticipated CO2e savings (million tonnes)":"0.0956",
+    "Anticipated beneficiaries (thousand)":"10",
+    "Details":"Support for seven Small Island Developing States (SIDS) to move from diesel power to renewable energy. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.183884,25.354826 ]
+    },
+    "properties": {
+    "Project name":"Pacific Islands renewable energy investment program",
+    "Link":"http://www.greenclimate.fund/-/pacific-islands-renewable-energy-investment-program?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Cook Islands, Tonga, Republic of Marshall Islands, Federated States of Micronesia, Papua New Guinea, Nauru and Samoa",
+    "Country":"Republic of Marshall Islands",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":17,
+    "Co-funding (million $)":"9",
+    "Total funding (million $)":"26",
+    "Anticipated CO2e savings (million tonnes)":"0.0956",
+    "Anticipated beneficiaries (thousand)":"10",
+    "Details":"Support for seven Small Island Developing States (SIDS) to move from diesel power to renewable energy. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.911806,61.892635 ]
+    },
+    "properties": {
+    "Project name":"Pacific Islands renewable energy investment program",
+    "Link":"http://www.greenclimate.fund/-/pacific-islands-renewable-energy-investment-program?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Cook Islands, Tonga, Republic of Marshall Islands, Federated States of Micronesia, Papua New Guinea, Nauru and Samoa",
+    "Country":"Federated States of Micronesia",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":17,
+    "Co-funding (million $)":"9",
+    "Total funding (million $)":"26",
+    "Anticipated CO2e savings (million tonnes)":"0.0956",
+    "Anticipated beneficiaries (thousand)":"10",
+    "Details":"Support for seven Small Island Developing States (SIDS) to move from diesel power to renewable energy. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.95555,-6.314993 ]
+    },
+    "properties": {
+    "Project name":"Pacific Islands renewable energy investment program",
+    "Link":"http://www.greenclimate.fund/-/pacific-islands-renewable-energy-investment-program?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Cook Islands, Tonga, Republic of Marshall Islands, Federated States of Micronesia, Papua New Guinea, Nauru and Samoa",
+    "Country":"Papua New Guinea",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":17,
+    "Co-funding (million $)":"9",
+    "Total funding (million $)":"26",
+    "Anticipated CO2e savings (million tonnes)":"0.0956",
+    "Anticipated beneficiaries (thousand)":"10",
+    "Details":"Support for seven Small Island Developing States (SIDS) to move from diesel power to renewable energy. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.931503,-0.522778 ]
+    },
+    "properties": {
+    "Project name":"Pacific Islands renewable energy investment program",
+    "Link":"http://www.greenclimate.fund/-/pacific-islands-renewable-energy-investment-program?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Cook Islands, Tonga, Republic of Marshall Islands, Federated States of Micronesia, Papua New Guinea, Nauru and Samoa",
+    "Country":"Nauru",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":17,
+    "Co-funding (million $)":"9",
+    "Total funding (million $)":"26",
+    "Anticipated CO2e savings (million tonnes)":"0.0956",
+    "Anticipated beneficiaries (thousand)":"10",
+    "Details":"Support for seven Small Island Developing States (SIDS) to move from diesel power to renewable energy. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.104629,-13.759029 ]
+    },
+    "properties": {
+    "Project name":"Pacific Islands renewable energy investment program",
+    "Link":"http://www.greenclimate.fund/-/pacific-islands-renewable-energy-investment-program?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Cook Islands, Tonga, Republic of Marshall Islands, Federated States of Micronesia, Papua New Guinea, Nauru and Samoa",
+    "Country":"Samoa",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":15,
+    "Year approved":2016,
+    "GCF funding (million $)":17,
+    "Co-funding (million $)":"9",
+    "Total funding (million $)":"26",
+    "Anticipated CO2e savings (million tonnes)":"0.0956",
+    "Anticipated beneficiaries (thousand)":"10",
+    "Details":"Support for seven Small Island Developing States (SIDS) to move from diesel power to renewable energy. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.104629,-13.759029 ]
+    },
+    "properties": {
+    "Project name":"Integrated flood management to enhance climate resilience of the Vaisigano river catchment",
+    "Link":"http://www.greenclimate.fund/-/integrated-flood-management-to-enhance-climate-resilience-of-the-vaisigano-river-catchment-in-samoa?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Samoa",
+    "Country":"Samoa",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":6,
+    "Year approved":2016,
+    "GCF funding (million $)":57.7,
+    "Co-funding (million $)":"8",
+    "Total funding (million $)":"65.7",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"37",
+    "Details":"Aid the government of Samoa to reduce the effect of recurrent flood-related impacts in the Vaisigano River catchment, which flows through the area of the national capital Apia."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Project name":"Geeref Next",
+    "Link":"http://www.greenclimate.fund/-/geeref-next?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Africa; Latin America and the Caribbean; Middle East and North Africa; Non-European Union Eastern Europe / Central Asia; and the Pacific ",
+    "Country":"",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":15,
+    "Year approved":2017,
+    "GCF funding (million $)":265,
+    "Co-funding (million $)":"500",
+    "Total funding (million $)":"765",
+    "Anticipated CO2e savings (million tonnes)":"769",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"A fund of funds, which aims to be the first investor in renewable energy/ energy efficiency investment funds across the developing world, and thus catalyse other investors to co-invest. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.802498,26.820553 ]
+    },
+    "properties": {
+    "Project name":"Renewable energy financing framework",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-egypt-renewable-energy-financing-framework?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Egypt",
+    "Country":"Egypt",
+    "Financing":"Private",
+    "Project size":"Large",
+    "Project length (years)":23,
+    "Year approved":2017,
+    "GCF funding (million $)":154.7,
+    "Co-funding (million $)":"852.3",
+    "Total funding (million $)":"1007",
+    "Anticipated CO2e savings (million tonnes)":"18.9",
+    "Anticipated beneficiaries (thousand)":"N/A",
+    "Details":"Supporting Egypt to meet its target of 20% renewable energy generation by 2022, through renewable energy integration and leveraged investments.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.276093,38.861034 ]
+    },
+    "properties": {
+    "Project name":"Scaling up hydropower sector climate resilience ",
+    "Link":"http://www.greenclimate.fund/-/tajikistan-scaling-up-hydropower-sector-climate-resilience?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Tajikistan",
+    "Country":"Tajikistan",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":5,
+    "Year approved":2017,
+    "GCF funding (million $)":50,
+    "Co-funding (million $)":"83",
+    "Total funding (million $)":"133",
+    "Anticipated CO2e savings (million tonnes)":"7.5",
+    "Anticipated beneficiaries (thousand)":"11,000",
+    "Details":"Protecting Tajikstan’s hydropower, which provides around 98% of its electricity, from climate risks. climate models predict significant changes in the dynamics of the Tajik precipitation patterns as well as alterations to the country’s glaciers. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.888822,-6.369028 ]
+    },
+    "properties": {
+    "Project name":"Simiyu climate resilience project",
+    "Link":"http://www.greenclimate.fund/-/simiyu-climate-resilient-development-programme?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Tanzania",
+    "Country":"Tanzania",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":5,
+    "Year approved":2017,
+    "GCF funding (million $)":109.6,
+    "Co-funding (million $)":"43.44",
+    "Total funding (million $)":"153.04",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"2,900",
+    "Details":"Safeguarding water supply and farming conditions in the Simiyu Region of Tanzania."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.09262,31.791702 ]
+    },
+    "properties": {
+    "Project name":"Irrigation development and adaptation of irrigated agriculture to climate change in semi-arid Morocco",
+    "Link":"http://www.greenclimate.fund/-/irrigation-development-and-adaptation-of-irrigated-agriculture-to-climate-change-in-semi-arid-morocco?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Morocco",
+    "Country":"Morocco",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":5,
+    "Year approved":2017,
+    "GCF funding (million $)":21.3,
+    "Co-funding (million $)":"59.8",
+    "Total funding (million $)":"81.1",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"0.017",
+    "Details":"Providing sustainable irrigation to improve the climate resilience of subsistence oasis farming and larger-scale date and olive agriculture within the Boudnib Valley. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.09262,31.791702 ]
+    },
+    "properties": {
+    "Project name":"Saïss water conservation project",
+    "Link":"http://www.greenclimate.fund/-/gcf-ebrd-saiss-water-conservation-project?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Morocco",
+    "Country":"Morocco",
+    "Financing":"Public",
+    "Project size":"Medium",
+    "Project length (years)":4,
+    "Year approved":2017,
+    "GCF funding (million $)":34.1,
+    "Co-funding (million $)":"186.44",
+    "Total funding (million $)":"220.54",
+    "Anticipated CO2e savings (million tonnes)":"N/A",
+    "Anticipated beneficiaries (thousand)":"2.2",
+    "Details":"Improving the climate resilience of agricultural systems in the Saïss Plain, which is threatened by declining and unpredictable rainfall due to climate change, coupled with unsustainable groundwater use."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.156194,-9.64571 ]
+    },
+    "properties": {
+    "Project name":"Tina River hydropower development project ",
+    "Link":"http://www.greenclimate.fund/-/tina-river-hydropower-development-project?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"Solomon Islands",
+    "Country":"Solomon Islands",
+    "Financing":"Public/private",
+    "Project size":"Medium",
+    "Project length (years)":5,
+    "Year approved":2017,
+    "GCF funding (million $)":86,
+    "Co-funding (million $)":"146",
+    "Total funding (million $)":"232",
+    "Anticipated CO2e savings (million tonnes)":"No number given",
+    "Anticipated beneficiaries (thousand)":"2.9",
+    "Details":"A hydropower facility to transit power system in Solomon Islands from diesel generated to clean and renewable energy. The 15MW installation will provide 65% of electricity demand for the capital Honiara by the online date of 2022."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.96288,20.593684 ]
+    },
+    "properties": {
+    "Project name":"Ground water recharge and solar micro irrigation project in Odisha",
+    "Link":"http://www.greenclimate.fund/-/ground-water-recharge-and-solar-micro-irrigation-to-ensure-food-security-and-enhance-resilience-in-vulnerable-tribal-areas-of-odisha?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
+    "Location":"India",
+    "Country":"India",
+    "Financing":"Public",
+    "Project size":"Small",
+    "Project length (years)":4,
+    "Year approved":2017,
+    "GCF funding (million $)":34.4,
+    "Co-funding (million $)":"132",
+    "Total funding (million $)":"166.4",
+    "Anticipated CO2e savings (million tonnes)":"No number given",
+    "Anticipated beneficiaries (thousand)":"5.2",
+    "Details":"Aims to ensure food security and enhance resilience in vulnerable tribal areas of Odisha in India using groundwater recharge and solar micro irrigation."
+    }
+  }
+]
+}
