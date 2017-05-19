@@ -10,7 +10,7 @@
     "properties": {
     "Project name":"Building the resilience of wetlands",
     "Link":"http://www.greenclimate.fund/-/building-the-resilience-of-wetlands-in-the-province-of-datem-del-maranon-peru?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects%3Fp_p_id%3D101_INSTANCE_Hreg2cAkDEHL%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_4ZRnUzRWpEqO__column-2%26p_p_col_count%3D1%26_101_INSTANCE_Hreg2cAkDEHL_delta%3D30%26_101_INSTANCE_Hreg2cAkDEHL_keywords%3D%26_101_INSTANCE_Hreg2cAkDEHL_advancedSearch%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_andOperator%3Dtrue%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_Hreg2cAkDEHL_cur%3D2",
-    "Location":"Province of Datem del Marañón, Peru",
+    "Location":"Province of Datem del Mara̱�_n, Peru",
     "Country":"Peru",
     "Financing":"Public ",
     "Project size":"Micro",
@@ -21,7 +21,7 @@
     "Total funding (million $)":"9.1",
     "Anticipated CO2e savings (million tonnes)":"2.6",
     "Anticipated beneficiaries (thousand)":"20",
-    "Details":"Will enhance the climate resilience and livelihoods of the indigenous wetlands communities of Datem del Marañón in the Amazon basin, as well as prevent greenhouse gas emissions from deforestation."
+    "Details":"Will enhance the climate resilience and livelihoods of the indigenous wetlands communities of Datem del Mara̱�_n in the Amazon basin, as well as prevent greenhouse gas emissions from deforestation."
     }
   },
   {
@@ -458,7 +458,7 @@
     "Total funding (million $)":"38.9",
     "Anticipated CO2e savings (million tonnes)":"N/A",
     "Anticipated beneficiaries (thousand)":"7",
-    "Details":"Protecting the small island nation from the impact of rising sea level and increasing cyclone events that threaten the country’s viability."
+    "Details":"Protecting the small island nation from the impact of rising sea level and increasing cyclone events that threaten the country�۪s viability."
     }
   },
   {
@@ -491,7 +491,7 @@
        "coordinates":  [ -71.542969,-35.675147 ]
     },
     "properties": {
-    "Project name":"Climate action and solar energy development programme in the Tarapacá Region",
+    "Project name":"Climate action and solar energy development programme in the Tarapac�� Region",
     "Link":"http://www.greenclimate.fund/-/climate-action-and-solar-energy-development-programme-in-the-tarapaca-region-in-chile?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
     "Location":"Chile",
     "Country":"Chile",
@@ -504,7 +504,7 @@
     "Total funding (million $)":"265",
     "Anticipated CO2e savings (million tonnes)":"3.7",
     "Anticipated beneficiaries (thousand)":"N/A",
-    "Details":"Large-scale investment in the ‘shovel ready’ Atacama Solar Project to deliver quick CO2 displacement, and drive transition in Chile towards renewable power."
+    "Details":"Large-scale investment in the ���shovel ready�۪ Atacama Solar Project to deliver quick CO2 displacement, and drive transition in Chile towards renewable power."
     }
   },
   {
@@ -514,7 +514,7 @@
        "coordinates":  [ 69.345116,30.375321 ]
     },
     "properties": {
-    "Project name":"Scaling‐up of glacial lake outburst flood risk reduction",
+    "Project name":"Scaling�ېup of glacial lake outburst flood risk reduction",
     "Link":"http://www.greenclimate.fund/-/scaling-up-of-glacial-lake-outburst-flood-glof-risk-reduction-in-northern-pakistan?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
     "Location":"Pakistan",
     "Country":"Pakistan",
@@ -1240,7 +1240,7 @@
     "Total funding (million $)":"44.3",
     "Anticipated CO2e savings (million tonnes)":"N/A",
     "Anticipated beneficiaries (thousand)":"4,800",
-    "Details":"Enhancing Ugandan subsistence farmers’ ability to deal with climate impacts."
+    "Details":"Enhancing Ugandan subsistence farmers�۪ ability to deal with climate impacts."
     }
   },
   {
@@ -1454,29 +1454,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Project name":"Geeref Next",
-    "Link":"http://www.greenclimate.fund/-/geeref-next?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
-    "Location":"Africa; Latin America and the Caribbean; Middle East and North Africa; Non-European Union Eastern Europe / Central Asia; and the Pacific ",
-    "Country":"",
-    "Financing":"Private",
-    "Project size":"Large",
-    "Project length (years)":15,
-    "Year approved":2017,
-    "GCF funding (million $)":265,
-    "Co-funding (million $)":"500",
-    "Total funding (million $)":"765",
-    "Anticipated CO2e savings (million tonnes)":"769",
-    "Anticipated beneficiaries (thousand)":"N/A",
-    "Details":"A fund of funds, which aims to be the first investor in renewable energy/ energy efficiency investment funds across the developing world, and thus catalyse other investors to co-invest. "
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 30.802498,26.820553 ]
     },
     "properties": {
@@ -1516,7 +1493,7 @@
     "Total funding (million $)":"133",
     "Anticipated CO2e savings (million tonnes)":"7.5",
     "Anticipated beneficiaries (thousand)":"11,000",
-    "Details":"Protecting Tajikstan’s hydropower, which provides around 98% of its electricity, from climate risks. climate models predict significant changes in the dynamics of the Tajik precipitation patterns as well as alterations to the country’s glaciers. "
+    "Details":"Protecting Tajikstan�۪s hydropower, which provides around 98% of its electricity, from climate risks. climate models predict significant changes in the dynamics of the Tajik precipitation patterns as well as alterations to the country�۪s glaciers. "
     }
   },
   {
@@ -1572,7 +1549,7 @@
        "coordinates":  [ -7.09262,31.791702 ]
     },
     "properties": {
-    "Project name":"Saïss water conservation project",
+    "Project name":"Sa��ss water conservation project",
     "Link":"http://www.greenclimate.fund/-/gcf-ebrd-saiss-water-conservation-project?inheritRedirect=true&redirect=%2Fprojects%2Fbrowse-projects",
     "Location":"Morocco",
     "Country":"Morocco",
@@ -1585,7 +1562,7 @@
     "Total funding (million $)":"220.54",
     "Anticipated CO2e savings (million tonnes)":"N/A",
     "Anticipated beneficiaries (thousand)":"2.2",
-    "Details":"Improving the climate resilience of agricultural systems in the Saïss Plain, which is threatened by declining and unpredictable rainfall due to climate change, coupled with unsustainable groundwater use."
+    "Details":"Improving the climate resilience of agricultural systems in the Sa��ss Plain, which is threatened by declining and unpredictable rainfall due to climate change, coupled with unsustainable groundwater use."
     }
   },
   {
