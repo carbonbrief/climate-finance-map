@@ -13,15 +13,7 @@ $.ajaxSetup({
   scriptCharset: "utf-8",
   contentType: "application/json; charset=utf-8"
 });
-//
-// $.ajax('climatefinance.geojson').done(function(data) {
-//   data = JSON.parse(data);
-//   console.log(data);
-//   L.geoJson(data, {
-//
-//   }).addTo(myMap);
-//
-// });
+
 
 $.ajax({
         url: "climatefinance.geojson",
@@ -34,16 +26,20 @@ $.ajax({
         dataType: 'json',
         data: null,
         success:  function(data, textStatus, request) {
-        var allProjects = L.geoJson(data, {
-					  pointToLayer: function (feature, latlng) {
-					      return L.circleMarker(latlng);
-					  },
-						onEachFeature: onEachFeature,
-						style: style
-				});
-				allProjects.addTo(myMap);
-			}
+				  var allProjects = L.geoJson(data, {
+				 					  pointToLayer: function (feature, latlng) {
+				 					      return L.circleMarker(latlng);
+				 					  },
+				 						onEachFeature: onEachFeature,
+				 						style: style
+				 				});
+				 				allProjects.addTo(myMap);
+
+				}
 });
+
+
+ 			
 
 function style(feature) {
     return {
@@ -64,6 +60,8 @@ function onEachFeature(feature, layer) {
                 layer.on('mouseout', function() { layer.closePopup(); });
     };
 }
+
+
 
 // var dataLayer = $.getJSON("climatefinance.geojson");
 // dataLayer.then(function(data) {
