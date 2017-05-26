@@ -25,18 +25,31 @@ $.ajax({
         },
         dataType: 'json',
         data: null,
-        success:  function(data, textStatus, request) {
-				  var allProjects = L.geoJson(data, {
-				 					  pointToLayer: function (feature, latlng) {
-				 					      return L.circleMarker(latlng);
-				 					  },
-				 						onEachFeature: onEachFeature,
-				 						style: style
-				 				});
-				 				allProjects.addTo(myMap);
-
-				}
+        success:  function (data, textStatus, request) {
+        	addClusterLayer(data);
+        },
 });
+
+function addClusterLayer (data) {
+	
+				var markers = L.markerClusterGroup();
+				
+	      var geoJsonLayer = L.geoJson(data, {
+	        onEachFeature: onEachFeature,
+					style: style,
+				  pointToLayer: function (feature, latlng) {
+				      return L.circleMarker(latlng);
+				  }
+	      });
+				
+	      markers.addLayer(geoJsonLayer);
+				
+	      leafletData.getMap().then(function(map) {
+	        myMap.addLayer(markers);
+					console.log("markers")
+				});
+				
+};
 
 
  			
