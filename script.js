@@ -76,8 +76,8 @@ function onEachFeature(feature, layer) {
     if (feature.properties) {
         layer.bindPopup(
           '<h1>' + feature.properties['Project name'] + '</h1>' +
-          'Distance retreated: <b>' + '' + 'm </b> <br />' +           
-          'Period (years): <b>' + feature.properties['Project length (years)'] + '</b> </br>' + 
+          'Total funding: <b>$' + feature.properties['Total funding (million $)'] + 'm </b> <br />' +           
+          'Project length: <b>' + feature.properties['Project length (years)'] + ' years</b> </br>' + 
           '<a target="_blank" href="' + feature.properties.Link + '">Link</a><br />'
           ,
           {closeButton: false, offset: L.point(0, -20)}
@@ -89,15 +89,3 @@ function onEachFeature(feature, layer) {
         */
     };
 }
-
-// var dataLayer = $.getJSON("climatefinance.geojson");
-// dataLayer.then(function(data) {
-// 	var allProjects = L.geoJson(data, {
-// 	  pointToLayer: function (feature, latlng) {
-// 	      return L.circleMarker(latlng);
-// 	  },
-// 		onEachFeature: onEachFeature,
-// 		style: style
-// 	});
-// 	allProjects.addTo(myMap);
-// });
