@@ -8,51 +8,55 @@ L.tileLayer('https://api.mapbox.com/styles/v1/rospearce/ciwgju4yv00cy2pmqeggx1mx
 }).addTo(myMap);
 
 
-
 $.ajaxSetup({
-  scriptCharset: "utf-8",
-  contentType: "application/json; charset=utf-8"
+    scriptCharset: "utf-8",
+    contentType: "application/json; charset=utf-8"
 });
 
-
 $.ajax({
-        url: "climatefinance.geojson",
-        beforeSend: function(xhr){
-          if (xhr.overrideMimeType)
-          {
-            xhr.overrideMimeType("application/json");
-          }
-        },
-        dataType: 'json',
-        data: null,
-        success:  function (data, textStatus, request) {
-        	addClusterLayer(data);
-        },
+      url: "climatefinance.geojson",
+      beforeSend: function(xhr){
+        if (xhr.overrideMimeType)
+        {
+          xhr.overrideMimeType("application/json");
+        }
+      },
+      dataType: 'json',
+      data: null,
+      success:  function (data, textStatus, request) {
+        addClusterLayer(data);
+      },
 });
 
 function addClusterLayer (data) {
-	
-				var markers = L.markerClusterGroup();
-				
-	      var geoJsonLayer = L.geoJson(data, {
-	        onEachFeature: onEachFeature,
-					style: style,
-				  pointToLayer: function (feature, latlng) {
-				      return L.circleMarker(latlng);
-				  }
-	      });
-				
-	      markers.addLayer(geoJsonLayer);
-				
-	      leafletData.getMap().then(function(map) {
-	        myMap.addLayer(markers);
-					console.log("markers")
-				});
-				
+      var markers = L.markerClusterGroup({
+        spiderLegPolylineOptions: {weight: 0},
+        clockHelpingCircleOptions: {weight: .7, opacity: 1, color: 'black', fillOpacity: 0, dashArray: '10 5'},
+        showCoverageOnHover: false,
+
+        elementsPlacementStrategy: 'clock',
+        helpingCircles: true,
+
+        spiderfyDistanceSurplus: 35,
+        spiderfyDistanceMultiplier: 1,
+
+        elementsMultiplier: 1.4,
+        firstCircleElements: 6
+      });
+      
+      var geoJsonLayer = L.geoJson(data, {
+        onEachFeature: onEachFeature,
+        style: style,
+        pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng);
+        }
+      });
+      
+      markers.addLayer(geoJsonLayer);
+      
+      myMap.addLayer(markers);
+      console.log("markers")			
 };
-
-
- 			
 
 function style(feature) {
     return {
@@ -67,14 +71,24 @@ function style(feature) {
 
 function onEachFeature(feature, layer) {
     // does this feature have a property named popupContent?
+    //console.log(feature);
+    
     if (feature.properties) {
-        layer.bindPopup('<h1>'+feature.properties.name+'</h1>Distance retreated: <b>'+feature.properties.change+'m</b><br />Period: <b>'+feature.properties.period+'</b>', {closeButton: false, offset: L.point(0, -20)});
-                layer.on('mouseover', function() { layer.openPopup(); });
-                layer.on('mouseout', function() { layer.closePopup(); });
+        layer.bindPopup(
+          '<h1>' + feature.properties['Project name'] + '</h1>' +
+          'Distance retreated: <b>' + '' + 'm </b> <br />' +           
+          'Period (years): <b>' + feature.properties['Project length (years)'] + '</b> </br>' + 
+          '<a target="_blank" href="' + feature.properties.Link + '">Link</a><br />'
+          ,
+          {closeButton: false, offset: L.point(0, -20)}
+        );
+        
+        /*
+        layer.on('mouseclick', function() { layer.openPopup(); });
+        layer.on('mouseout', function() { layer.closePopup(); });
+        */
     };
 }
-
-
 
 // var dataLayer = $.getJSON("climatefinance.geojson");
 // dataLayer.then(function(data) {
@@ -87,6 +101,3 @@ function onEachFeature(feature, layer) {
 // 	});
 // 	allProjects.addTo(myMap);
 // });
-
-
-
