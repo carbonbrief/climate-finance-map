@@ -41,7 +41,10 @@ function addClusterLayer (data) {
         spiderfyDistanceMultiplier: 1,
 
         elementsMultiplier: 1.4,
-        firstCircleElements: 6
+        firstCircleElements: 6,
+				
+				maxClusterRadius: 20
+				
       });
       
       var geoJsonLayer = L.geoJson(data, {
@@ -65,7 +68,7 @@ function style(feature) {
         opacity: 0.85,
         color: 'white',
         fillOpacity: 0.85,
-			  radius: 12,
+			  radius: 8,
     };
 }
 
