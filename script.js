@@ -43,7 +43,7 @@ function addClusterLayer (data) {
         elementsMultiplier: 1.4,
         firstCircleElements: 6,
 				
-				maxClusterRadius: 20
+				maxClusterRadius: 10
 				
       });
       
@@ -63,12 +63,12 @@ function addClusterLayer (data) {
 
 function style(feature) {
     return {
-        fillColor: '#2F8FCE',
-        weight: 1.4,
+        fillColor: '#84be4d',
+        weight: 0,
         opacity: 0.85,
         color: 'white',
         fillOpacity: 0.85,
-			  radius: 8,
+			  radius: 7,
     };
 }
 
