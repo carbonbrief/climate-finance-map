@@ -97,9 +97,9 @@ function onEachFeature(feature, layer) {
           {closeButton: false, offset: L.point(0, -20)}
         );
         
-        /*
-        layer.on('mouseclick', function() { layer.openPopup(); });
+        
+        layer.on('mouseover', function() { layer.openPopup(); });
         layer.on('mouseout', function() { layer.closePopup(); });
-        */
+
     };
 }
