@@ -52,7 +52,6 @@ function addClusterLayer (data) {
 			markers.on('clusterclick', function (a) {
 				
 				a.layer.zoomToBounds({padding: [100, 100]});
-				// myMap.setView(new L.Latlng(mouseEventToLatLng(event)), 8);
 				
 			});
 			
