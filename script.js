@@ -2,7 +2,8 @@ var myMap = L.map('mapid').setView([31.505, 7], 2);
 
 L.tileLayer('https://api.mapbox.com/styles/v1/rospearce/cj3mua9b5000c2smnydyfiqj6/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicm9zcGVhcmNlIiwiYSI6ImNpdm1sczJsZjAwOGMyeW1xNHc4ejJ0N28ifQ.4B24e0_HgfJj4sgqimETqA', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18,
+    maxZoom: 5,
+		minZoom: 2,
     id: 'mapbox://styles/rospearce/cj3mua9b5000c2smnydyfiqj6',
     accessToken: 'pk.eyJ1Ijoicm9zcGVhcmNlIiwiYSI6ImNpdm1sczJsZjAwOGMyeW1xNHc4ejJ0N28ifQ.4B24e0_HgfJj4sgqimETqA'
 }).addTo(myMap);
@@ -44,8 +45,17 @@ function addClusterLayer (data) {
         firstCircleElements: 6,
 				
 				maxClusterRadius: 5
+	
 				
       });
+			
+			markers.on('clusterclick', function (a) {
+				
+				a.layer.zoomToBounds({padding: [100, 100]});
+				// myMap.setView(new L.Latlng(mouseEventToLatLng(event)), 8);
+				
+			});
+			
       
       var geoJsonLayer = L.geoJson(data, {
         onEachFeature: onEachFeature,
@@ -61,9 +71,11 @@ function addClusterLayer (data) {
       console.log("markers")			
 };
 
+
+
 function style(feature) {
     return {
-        fillColor: '#84be4d',
+        fillColor: '#83ff00',
         weight: 0,
         opacity: 0.85,
         color: 'white',
