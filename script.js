@@ -1,4 +1,4 @@
-var myMap = L.map('mapid').setView([31.505, 7], 2);
+var myMap = L.map('mapid', {zoomControl: false}).setView([31.505, 7], 2);
 
 L.tileLayer('https://api.mapbox.com/styles/v1/rospearce/cj3mua9b5000c2smnydyfiqj6/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicm9zcGVhcmNlIiwiYSI6ImNpdm1sczJsZjAwOGMyeW1xNHc4ejJ0N28ifQ.4B24e0_HgfJj4sgqimETqA', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
@@ -69,6 +69,11 @@ function addClusterLayer (data) {
       myMap.addLayer(markers);
       console.log("markers")			
 };
+
+//add zoomhome controls
+
+var zoomHome = L.Control.zoomHome();
+zoomHome.addTo(myMap);
 
 
 
