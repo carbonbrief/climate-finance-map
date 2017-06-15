@@ -84,7 +84,7 @@ function style(feature) {
         opacity: 0.85,
         color: 'white',
         fillOpacity: 0.85,
-			  radius: 7,
+			  radius: 8,
     };
 }
 
@@ -94,10 +94,10 @@ function onEachFeature(feature, layer) {
     
     if (feature.properties) {
         layer.bindPopup(
-          '<h1>' + feature.properties['Project name'] + '</h1>' +
-          'Location: <b>' + feature.properties['Location'] + '</b> <br />' +  
+          '<h1>' + feature.properties['Project name'] + ' – ' + feature.properties['Country'] + '</h1>' +
           'Total project funding: <b>$' + feature.properties['Total funding (million $)'] + 'm </b> <br />' +           
           'Project length: <b>' + feature.properties['Project length (years)'] + ' years</b> </br>' + 
+          'Location: <b>' + feature.properties['Location'] + '</b> <br />' +  
           '<a target="_blank" href="' + feature.properties.Link + '">Link</a><br />'
           ,
           {closeButton: false, offset: L.point(0, -20)}
