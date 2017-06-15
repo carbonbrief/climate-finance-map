@@ -20,11 +20,13 @@ h1 {
 }
 
 .leaflet-popup-content-wrapper .leaflet-popup-content h1 {
-	font-size: 24px;
+	font-size: 21px;
+	margin-bottom: 5px;
 }
 
 .leaflet-popup-content-wrapper .leaflet-popup-content {
 	font-family: PT Sans, Arial;
+	font-size: 13px;
 }
 
 /*.marker-cluster-small {
