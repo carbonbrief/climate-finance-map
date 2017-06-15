@@ -62,6 +62,9 @@ function addClusterLayer (data) {
         pointToLayer: function (feature, latlng) {
             return L.circleMarker(latlng);
         }
+      }).on('click', function (e) {
+        myMap.setView(e.latlng, 5);
+        console.log("click-zoom");
       });
       
       markers.addLayer(geoJsonLayer);
@@ -97,8 +100,8 @@ function onEachFeature(feature, layer) {
           '<h1>' + feature.properties['Project name'] + ' – ' + feature.properties['Country'] + '</h1>' +
           'Total project funding: <b>$' + feature.properties['Total funding (million $)'] + 'm </b> <br />' +           
           'Project length: <b>' + feature.properties['Project length (years)'] + ' years</b> </br>' + 
-          'Location: <b>' + feature.properties['Location'] + '</b> <br />' +  
-          '<a target="_blank" href="' + feature.properties.Link + '">Link</a><br />'
+          'Location: <b>' + feature.properties['Location'] + '</b> <br />' 
+          // +  '<a target="_blank" href="' + feature.properties.Link + '">Link</a><br />'
           ,
           {closeButton: false, offset: L.point(0, -20)}
         );
