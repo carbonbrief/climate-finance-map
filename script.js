@@ -64,10 +64,27 @@ function addClusterLayer (data) {
         }
       }).on('click', function (e) {
         myMap.setView(e.latlng, 5);
-        console.log("click-zoom");
+      });
+
+      // add GCF only layer
+
+      var GCF = L.geoJson(data, {
+        filter: function (feature, layer) {
+          return (feature.properties.Fund == "GCF")
+        },
+        onEachFeature: onEachFeature,
+        style: style,
+        pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, {
+              tag: ['GCF']
+            });
+        }
+      }).on('click', function (e) {
+        myMap.setView(e.latlng, 5);
       });
       
       markers.addLayer(geoJsonLayer);
+      markers.addLayer(GCF);
       
       myMap.addLayer(markers);
       console.log("markers")			
@@ -112,3 +129,11 @@ function onEachFeature(feature, layer) {
 
     };
 }
+
+// control for filter button NB cgcf layer currenlty not adding
+
+L.control.tagFilterButton({
+	data: ['GCF'],
+	filterOnEveryClick: true,
+	openPopupOnHover: true
+}).addTo( myMap );
