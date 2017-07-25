@@ -70,7 +70,7 @@ function addClusterLayer (data) {
 
       var GCF = L.geoJson(data, {
         filter: function (feature, layer) {
-          return (feature.properties.Fund == "GCF")
+          return (feature.properties.Fund === "GCF")
         },
         onEachFeature: onEachFeature,
         style: style,
@@ -99,11 +99,10 @@ zoomHome.addTo(myMap);
 
 function style(feature) {
     return {
-        fillColor: '#83ff00',
+        fillColor: '#00FFCE',
         weight: 0,
-        opacity: 0.85,
+        fillOpacity: 0.7,
         color: 'white',
-        fillOpacity: 0.85,
 			  radius: 9
     };
 }
@@ -115,9 +114,10 @@ function onEachFeature(feature, layer) {
     if (feature.properties) {
         layer.bindPopup(
           '<h1>' + feature.properties['Project name'] + ' – ' + feature.properties['Country'] + '</h1>' +
-          'Total project funding: <b>$' + feature.properties['Total funding (million $)'] + 'm </b> <br />' +           
-          'Project length: <b>' + feature.properties['Project length (years)'] + ' years</b> </br>' + 
-          'Location: <b>' + feature.properties['Location'] + '</b> <br />' 
+          '<b>' + feature.properties['Fund'] +  ' funding: </b>' + feature.properties['Funding label'] + '  <br />' +           
+          '<b>Project length: </b>' + feature.properties['Project length'] + ' years </br>' + 
+          '<b>Location: </b>' + feature.properties['Location'] + ' <br />' +
+          '<b>Summary: </b>' + feature.properties['Details'] + ' <br />'
           // +  '<a target="_blank" href="' + feature.properties.Link + '">Link</a><br />'
           ,
           {closeButton: false, offset: L.point(0, -20)}
@@ -130,10 +130,10 @@ function onEachFeature(feature, layer) {
     };
 }
 
-// control for filter button NB cgcf layer currenlty not adding
+// control for filter button NB gcf layer currenlty not adding
 
 L.control.tagFilterButton({
-	data: ['GCF'],
+	data: ['GCF', 'Other'],
 	filterOnEveryClick: true,
 	openPopupOnHover: true
 }).addTo( myMap );
