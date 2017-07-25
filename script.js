@@ -35,7 +35,7 @@ function addClusterLayer (data) {
         clockHelpingCircleOptions: {weight: .9, opacity: 1, color: '#939393', fillOpacity: 0, dashArray: '10 5'},
         showCoverageOnHover: false,
 
-        elementsPlacementStrategy: 'clock',
+        elementsPlacementStrategy: 'spiral',
         helpingCircles: true,
 
         spiderfyDistanceSurplus: 35,
