@@ -95,11 +95,16 @@ function addClusterLayer (data) {
 var zoomHome = L.Control.zoomHome();
 zoomHome.addTo(myMap);
 
+function getColor(d) {
+    return d > 100000000   ? '#FFFF00' :
+					 d > 10000000   ? '#83FF00' :
+                      '#00FFCE';
+}
 
 
 function style(feature) {
     return {
-        fillColor: '#00FFCE',
+        fillColor: getColor(feature.properties['Funding']),
         weight: 0,
         fillOpacity: 0.85,
         color: 'white',
