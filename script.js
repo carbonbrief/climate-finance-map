@@ -32,7 +32,7 @@ $.ajax({
 function addClusterLayer (data) {
       var markers = L.markerClusterGroup({
         spiderLegPolylineOptions: {weight: 0},
-        clockHelpingCircleOptions: {weight: .7, opacity: 1, color: 'black', fillOpacity: 0, dashArray: '10 5'},
+        clockHelpingCircleOptions: {weight: .9, opacity: 1, color: '#939393', fillOpacity: 0, dashArray: '10 5'},
         showCoverageOnHover: false,
 
         elementsPlacementStrategy: 'clock',
@@ -101,7 +101,7 @@ function style(feature) {
     return {
         fillColor: '#00FFCE',
         weight: 0,
-        fillOpacity: 0.7,
+        fillOpacity: 0.85,
         color: 'white',
 			  radius: 9
     };
