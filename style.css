@@ -36,19 +36,34 @@ h1 {
 	border: 1px solid #83ff00;
 }*/
 
-#key {
-	position: absolute;
-    	top: 690px;
-    	left: 10px;
-    	z-index: 9000;
-	height: 70px;
-	width: 260px;
-	background-image:url(key.png);
-	background-repeat: no-repeat;
+#Key-1 {
+position: absolute;
+top: 690px;
+left: 10px;
+z-index: 9000;
+height: 68px;
+width: 322px;
+background-image:url(Key-1.png);
+background-repeat: no-repeat;
 border-radius: 5px;
-  -webkit-box-shadow: 6px 10px 23px 5px rgba(102,102,102,0.2);
-  -moz-box-shadow: 6px 10px 23px 5px rgba(102,102,102,0.2);
-  box-shadow: 6px 10px 23px 5px rgba(102,102,102,0.2);
+-webkit-box-shadow: 6px 10px 23px 5px rgba(102,102,102,0.2);
+-moz-box-shadow: 6px 10px 23px 5px rgba(102,102,102,0.2);
+box-shadow: 6px 10px 23px 5px rgba(102,102,102,0.2);
+}
+
+#Key-2 {
+position: absolute;
+top: 690px;
+left: 340px;
+z-index: 9000;
+height: 68px;
+width: 322px;
+background-image:url(Key-2.png);
+background-repeat: no-repeat;
+border-radius: 5px;
+-webkit-box-shadow: 6px 10px 23px 5px rgba(102,102,102,0.2);
+-moz-box-shadow: 6px 10px 23px 5px rgba(102,102,102,0.2);
+box-shadow: 6px 10px 23px 5px rgba(102,102,102,0.2);
 }
 
 #logo {

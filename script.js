@@ -95,10 +95,12 @@ function addClusterLayer (data) {
 var zoomHome = L.Control.zoomHome();
 zoomHome.addTo(myMap);
 
+// function to link marker colour to data
+
 function getColor(d) {
     return d > 100000000   ? '#FFFF00' :
 					 d > 10000000   ? '#83FF00' :
-                      '#00FFCE';
+                            '#00FFCE';
 }
 
 
