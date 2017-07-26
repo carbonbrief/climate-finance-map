@@ -35,7 +35,7 @@ function addClusterLayer (data) {
         clockHelpingCircleOptions: {weight: .9, opacity: 1, color: '#939393', fillOpacity: 0, dashArray: '10 5'},
         showCoverageOnHover: false,
 
-        elementsPlacementStrategy: 'spiral',
+        elementsPlacementStrategy: 'one-circle',
         helpingCircles: true,
 
         spiderfyDistanceSurplus: 35,
@@ -144,3 +144,25 @@ L.control.tagFilterButton({
 	filterOnEveryClick: true,
 	openPopupOnHover: true
 }).addTo( myMap );
+
+
+// make key visibility responsive
+
+$(document).ready(function(){
+			
+			if ($(window).width() >= 650)
+				
+			{
+				$("#Key2").show();
+	      $("#Key1").show();
+				$("#Total1").show();
+			}
+			
+			else {
+				$("#Key2").hide();
+	      $("#Key1").show();
+				$("#Total1").hide();
+			}
+			
+			
+ });
