@@ -38,7 +38,7 @@ h1 {
 
 #Key-1 {
 position: absolute;
-top: 690px;
+top: 695px;
 left: 10px;
 z-index: 9000;
 height: 68px;
@@ -53,11 +53,11 @@ box-shadow: 6px 10px 23px 5px rgba(102,102,102,0.2);
 
 #Key-2 {
 position: absolute;
-top: 690px;
+top: 695px;
 left: 340px;
 z-index: 9000;
 height: 68px;
-width: 322px;
+width: 312px;
 background-image:url(Key-2.png);
 background-repeat: no-repeat;
 border-radius: 5px;
