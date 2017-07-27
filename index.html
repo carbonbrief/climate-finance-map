@@ -29,6 +29,22 @@
 	 <div id="Key-1"></div>
 	 <div id="Key-2"></div>
 	 <div id="logo"></div>
+	 <div id='selector_menu'>
+		<select id='selector' style='width: 220px; height: 40px; font-family: "PT Sans", Arial; font-size: 15px; font-weight:bold; padding:6px; padding-left: 11px;'>
+			<option value='reset'>All</option>
+            <option value='AF'>Adaptation Fund</option>
+			<option value='CIF'>Climate Investment Funds</option>
+            <option value='GEF'>Global Environment Facility</option>
+            <option value='GCF'>Green Climate Fund</option>
+		</select>
+
+		</div>
+		<form id='colors'>
+			<div><input type='checkbox' name='filters' onclick='showStations();' value='AF' checked> Adaptation Fund</div>
+			<div><input type='checkbox' name='filters' onclick='showStations();' value='CIF' checked> Climate Investment Funds</div>
+			<div><input type='checkbox' name='filters' onclick='showStations();' value='GEF' checked> Global Environment Facility</div>
+			<div><input type='checkbox' name='filters' onclick='showStations();' value='GCF' checked> Green Climate Fund</div>
+		</form>
 	 <script type="text/javascript" src="script.js"></script>
 </body>
 </html>
