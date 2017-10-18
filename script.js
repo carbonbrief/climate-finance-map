@@ -102,7 +102,7 @@ function onEachFeature(feature, layer) {
     
     if (feature.properties) {
         layer.bindPopup(
-          '<h1>' + feature.properties['Project name'] + ' – ' + feature.properties['Country'] + '</h1>' +
+          '<h1>' + feature.properties['Project name'] + '</h1>' +
           '<b>' + feature.properties['Fund'] +  ' funding: </b>' + feature.properties['Funding label'] + '  <br />' +           
           '<b>Date approved: </b>' + feature.properties['Date approved'] + '</br>' + 
           '<b>Location: </b>' + feature.properties['Location'] + ' <br />' +
