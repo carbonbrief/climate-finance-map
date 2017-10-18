@@ -3,11 +3,12 @@ var myMap = L.map('mapid', {zoomControl: false}).setView([20, 7], 2);
 L.tileLayer('https://api.mapbox.com/styles/v1/rospearce/cj3mua9b5000c2smnydyfiqj6/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicm9zcGVhcmNlIiwiYSI6ImNpdm1sczJsZjAwOGMyeW1xNHc4ejJ0N28ifQ.4B24e0_HgfJj4sgqimETqA', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 5,
-		minZoom: 2,
+    minZoom: 2,
     id: 'mapbox://styles/rospearce/cj3mua9b5000c2smnydyfiqj6',
     accessToken: 'pk.eyJ1Ijoicm9zcGVhcmNlIiwiYSI6ImNpdm1sczJsZjAwOGMyeW1xNHc4ejJ0N28ifQ.4B24e0_HgfJj4sgqimETqA'
 }).addTo(myMap);
 
+myMap.scrollWheelZoom.disable();	
 
 $.ajaxSetup({
     scriptCharset: "utf-8",
@@ -104,7 +105,7 @@ function onEachFeature(feature, layer) {
         layer.bindPopup(
           '<h1>' + feature.properties['Project name'] + '</h1>' +
           '<b>' + feature.properties['Fund'] +  ' funding: </b>' + feature.properties['Funding label'] + '  <br />' +           
-          '<b>Date approved: </b>' + feature.properties['Date approved'] + '</br>' + 
+          '<b>Year approved: </b>' + feature.properties['Date approved'] + '</br>' + 
           '<b>Location: </b>' + feature.properties['Location'] + ' <br />' +
           '<b>Summary: </b>' + feature.properties['Details'] + ' <br />'
           // +  '<a target="_blank" href="' + feature.properties.Link + '">Link</a><br />'
