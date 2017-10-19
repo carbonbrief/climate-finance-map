@@ -151,53 +151,54 @@ function onEachFeature(feature, layer) {
         layer.on('mouseover', function(){
           layer.openPopup();
           start = new Date().getTime();
-          autoClosePopup();
         });        
       
         layer.on('mouseout', function(){  
             var end = new Date().getTime();
             var time = end - start;
             console.log('Execution time: ' + time);
-            if(time > 800){
+            if(time < 400){
             layer.closePopup();
-        }});
+            }
+            // autoClosePopup();
+        });
 
         var mouseOverPopup = false;
 
         // try to set a way for it to close after a while
 
-        function autoClosePopup () {
+        // function autoClosePopup () {
 
 
-          setTimeout(function() {
-            if (mouseOverPopup = false) {
-              layer.closePopup();
-              console.log("auto close popup");
-            }          
-          }, 3000);
+        //   setTimeout(function() {
+          
+        //       layer.closePopup();
+        //       console.log("auto close popup");
+              
+        //   }, 10000);
 
           
 
-        }
+        // }
 
         // trying to add bit so that stays open for longer when you hover over the popup. Not currently working I think because position of popup is not where I think it is
 
-        $(myPopup, "<p>").on("mouseover", function () {
-          mouseOverPopup = true; 
-          layer.openPopup();
-          start2 = new Date().getTime();
-          console.log("html mouseover");
-        });
+        // $(myPopup, "<p>").on("mouseover", function () {
+        //   mouseOverPopup = true; 
+        //   layer.openPopup();
+        //   start2 = new Date().getTime();
+        //   console.log("html mouseover");
+        // });
 
-        $(myPopup, "<p>").on("mouseout", function () {
-          mouseOverPopup = false;
-          var end2 = new Date().getTime();
-          var time2 = end2 - start2;
-          console.log('Execution time2: ' + time2);
-          if(time2 > 800){
-          layer.closePopup(); 
-          console.log("html mouseout");
-        }});
+        // $(myPopup, "<p>").on("mouseout", function () {
+        //   mouseOverPopup = false;
+        //   var end2 = new Date().getTime();
+        //   var time2 = end2 - start2;
+        //   console.log('Execution time2: ' + time2);
+        //   if(time2 > 800){
+        //   layer.closePopup(); 
+        //   console.log("html mouseout");
+        // }});
 
 
 
