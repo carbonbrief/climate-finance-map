@@ -36,7 +36,7 @@ function addClusterLayer (data) {
         clockHelpingCircleOptions: {weight: .9, opacity: 1, color: '#f3f3f3', fillOpacity: 0, dashArray: '10 5'},
         showCoverageOnHover: false,
 
-        elementsPlacementStrategy: 'spiral',
+        elementsPlacementStrategy: 'clock-concentric',
         helpingCircles: true,
 
         spiderfyDistanceSurplus: 35,
@@ -45,15 +45,21 @@ function addClusterLayer (data) {
         elementsMultiplier: 1.5,
         firstCircleElements: 7,
 				
-				maxClusterRadius: 4
+        maxClusterRadius: 4,
+        
 	
 				
       });
+
 			
 			markers.on('clusterclick', function (a) {
 				
-				a.layer.zoomToBounds({padding: [100, 100]});
-				
+        a.layer.zoomToBounds({padding: [200, 200]});
+
+        // myMap.setView(e.latlng, 7);
+
+        // don't think it's possible to automatically spiderfy with the subplugin I'm using
+
       });
 
 			
@@ -64,8 +70,8 @@ function addClusterLayer (data) {
         pointToLayer: function (feature, latlng) {
             return L.circleMarker(latlng);
         }
-      }).on('click', function (e) {
-        myMap.setView(e.latlng, 6);
+      }).on('dblclick', function (e) {
+        myMap.setView(e.latlng);
       });
       
       markers.addLayer(geoJsonLayer);
@@ -115,38 +121,14 @@ function onEachFeature(feature, layer) {
           {closeButton: true, offset: L.point(0, -20)}
         );
 
-        
-        
-        // layer.on('dblclick', function() { 
-        //   console.log("dbclick");
-        //   layer.openPopup();
-        //   layer.on("mouseout", null);
-        //   layer.on("mouseover", null);
-        //   // $( layer ).off( "mouseout", feature);
-        //   // $( layer ).off( "mouseover", feature);
-        //   // // layer.addEventListener("mouseover", mouseover, false);
-        //   // // layer.addEventListener("mouseout",mouseout, false);
-        //   // // layer.addEventListener("click", function () {
-        //   // //   this.removeEventListener("mouseover", mouseover);
-        //   // //   this.removeEventListener("mouseout", mouseover)
-        //   // // })
+        //layer.on("mouseclick", function() {layer.openPopup();});
 
-        //   layer.addEventListener("click", function () {
-        //     layer.closePopup();
-        //     layer.on( "mouseout", mouseover);
-        //     layer.on( "mouseover", mouseout);
-        //     })
-          
-        // });
-        // layer.on('mouseclick', function() { 
-        //   console.log("clickout");
-        //   layer.closePopup();
-        //   // $( document ).on( "mouseout", layer);
-        //   // $( document ).on( "mouseover", layer);
-        // });
+        // this seems to help with popup not registering on second cluster click
+        layer.on("clusterclick", function() {
+          layer.closePopup();
+          console.log("clusterpopup close");
+        });
 
-        // layer.on('mouseover', function mouseover () { layer.openPopup(); });
-        // layer.on('mouseout', function mouseout () { layer.closePopup(); }); 
 
         layer.on('mouseover', function(){
           layer.openPopup();
@@ -157,57 +139,10 @@ function onEachFeature(feature, layer) {
             var end = new Date().getTime();
             var time = end - start;
             console.log('Execution time: ' + time);
-            if(time < 400){
+           if(time > 7000){
             layer.closePopup();
             }
-            // autoClosePopup();
         });
-
-        var mouseOverPopup = false;
-
-        // try to set a way for it to close after a while
-
-        // function autoClosePopup () {
-
-
-        //   setTimeout(function() {
-          
-        //       layer.closePopup();
-        //       console.log("auto close popup");
-              
-        //   }, 10000);
-
-          
-
-        // }
-
-        // trying to add bit so that stays open for longer when you hover over the popup. Not currently working I think because position of popup is not where I think it is
-
-        // $(myPopup, "<p>").on("mouseover", function () {
-        //   mouseOverPopup = true; 
-        //   layer.openPopup();
-        //   start2 = new Date().getTime();
-        //   console.log("html mouseover");
-        // });
-
-        // $(myPopup, "<p>").on("mouseout", function () {
-        //   mouseOverPopup = false;
-        //   var end2 = new Date().getTime();
-        //   var time2 = end2 - start2;
-        //   console.log('Execution time2: ' + time2);
-        //   if(time2 > 800){
-        //   layer.closePopup(); 
-        //   console.log("html mouseout");
-        // }});
-
-
-
-        // $(".leaflet-popup-content").on('mouseover', function () { 
-        //   layer.openPopup(); 
-        //   console.log("wrapper mouseover");
-        // });
-        // $(".leaflet-popup-content").on('mouseout', function () { layer.closePopup(); });
-
 
         
 
