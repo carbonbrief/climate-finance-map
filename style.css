@@ -29,12 +29,11 @@ h1 {
 	font-size: 13px;
 }
 
-/*.marker-cluster-small {
-	background: #83ff00;
-	font-family: PT Sans, Arial;
-	border-radius: 50%;
-	border: 1px solid #83ff00;
-}*/
+/* cluster now changes opacity on hover but not the marker itself */
+
+.leaflet-marker-icon:hover {
+	opacity: 0.75;
+}
 
 #Key-2 {
 position: absolute;
