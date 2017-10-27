@@ -6445,6 +6445,26 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -15.1804,11.8037 ]
+    },
+    "properties": {
+    "Project name":"Scaling up climate-smart agriculture in East Guinea Bissau",
+    "Link":"https://www.adaptation-fund.org/project/scaling-climate-smart-agriculture-east-guinea-bissau/",
+    "Location":"Guinea-Bissau",
+    "Country":"Guinea-Bissau",
+    "Fund":"AF",
+    "Fund label":"Adaptation Fund",
+    "Project length (years)":"5",
+    "Date approved":2017,
+    "Funding":9979000,
+    "Funding label":"$9,979,000",
+    "Details":"Strengthen practices and capacities in climate-smart agriculture in dry land East Guinea-Bissau and at institutional level. The project will address key vulnerabilities in agriculture and water resources management."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -61.7964,17.0608 ]
     },
     "properties": {
@@ -12665,6 +12685,26 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 17.1167,-22.1576 ]
+    },
+    "properties": {
+    "Project name":"Pilot rural desalination plants using renewable power and membrane technology",
+    "Link":"https://www.adaptation-fund.org/project/pilot-rural-desalination-plants-using-renewable/",
+    "Location":"Namibia",
+    "Country":"Namibia",
+    "Fund":"AF",
+    "Fund label":"Adaptation Fund",
+    "Project length (years)":"4",
+    "Date approved":2017,
+    "Funding":4999674,
+    "Funding label":"$4,999,675",
+    "Details":"Pilot the treatment by reverse osmosis (RO) of poor quality local groundwater to a level that complies with the national standards for drinking water, using sun and wind energy to power the process."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -60.9789,13.9094 ]
     },
     "properties": {
@@ -13385,6 +13425,26 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 160.1562,-9.6457 ]
+    },
+    "properties": {
+    "Project name":"https://www.adaptation-fund.org/project/enhancing-urban-resilience-climate-change-impacts-natural-disasters-honiara-3/",
+    "Link":"https://www.adaptation-fund.org/project/enhancing-urban-resilience-climate-change-impacts-natural-disasters-honiara-3/",
+    "Location":"Solomon Islands",
+    "Country":"Solomon Islands",
+    "Fund":"AF",
+    "Fund label":"Adaptation Fund",
+    "Project length (years)":"5",
+    "Date approved":2017,
+    "Funding":4395877,
+    "Funding label":"$4,395,877",
+    "Details":"Enhance the resilience of Honiara and its inhabitants to current and future climate impacts and natural disasters, with a particular focus on pro-poor adaptation actions that involve and benefit the most vulnerable communities."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 23.9375,-29.2595 ]
     },
     "properties": {
@@ -13599,6 +13659,26 @@
     "Funding":4248600,
     "Funding label":"$4,248,600",
     "Details":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.4144,-17.5782 ]
+    },
+    "properties": {
+    "Project name":"Increasing the resilience of informal urban settlements in Fiji that are highly vulnerable to climate change and disaster risks",
+    "Link":"https://www.adaptation-fund.org/project/increasing-resilience-informal-urban-settlements-fiji-highly-vulnerable-climate-change-disaster-risks-2/",
+    "Location":"Fiji",
+    "Country":"Fiji",
+    "Fund":"AF",
+    "Fund label":"Adaptation Fund",
+    "Project length (years)":"5",
+    "Date approved":2017,
+    "Funding":4235995,
+    "Funding label":"$4,235,995",
+    "Details":"Increase the resilience of informal urban settlements in Fiji that are highly vulnerable to climate change and disaster risks. These are of critical concern as many such settlements are located in highly vulnerable areas, such as riverbanks and pockets of coastal land."
     }
   },
   {
