@@ -5,7 +5,7 @@ L.tileLayer('https://api.mapbox.com/styles/v1/rospearce/cj3mua9b5000c2smnydyfiqj
     maxZoom: 6,
     minZoom: 2,
     id: 'mapbox://styles/rospearce/cj3mua9b5000c2smnydyfiqj6',
-    accessToken: 'pk.eyJ1Ijoicm9zcGVhcmNlIiwiYSI6ImNpdm1sczJsZjAwOGMyeW1xNHc4ejJ0N28ifQ.4B24e0_HgfJj4sgqimETqA'
+    accessToken: 'pk.eyJ1Ijoicm9zcGVhcmNlIiwiYSI6ImNqbGhxaTAwNDFnamYzb25qY2Jha2NrZWgifQ.xZMz-pe7wEEpARooTi6lkw'
 }).addTo(myMap);
 
 myMap.scrollWheelZoom.disable();	
